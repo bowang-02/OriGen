@@ -1,0 +1,1 @@
+{"messages": {"prompt": "We will provide you multi-sequence cervical MRI volumes from a patient. We hope you can make a radiology report based on these volumes.", "nifti": ["../Data/case01/case01-T1CA.nii.gz", "../Data/case01/case01-T1CS.nii.gz", "../Data/case01/case01-T2A.nii.gz", "../Data/case01/case01-T2S.nii.gz"]}}
